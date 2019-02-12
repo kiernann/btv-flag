@@ -19,3 +19,12 @@ A proper city flag should both reflect her values and give the citizen's an outl
 ## Proposal
 
 ## Campagin
+
+## Links
+
+* https://www.mychamplainvalley.com/news/burlington-seeks-to-update-city-flag-design/637856096
+* https://www.mychamplainvalley.com/news/bca-proposes-process-to-design-new-burlington-flag/681541891
+* https://www.burlingtonfreepress.com/story/news/2017/10/20/which-burlington-flag-design-do-you-like-voting-has-started/783574001/
+* https://www.mynbc5.com/article/feedback-wanted-on-next-burlington-city-flag/13079751
+* https://www.sevendaysvt.com/OffMessage/archives/2017/11/27/burlington-has-a-new-city-flag
+* https://www.burlingtoncityarts.org/btvflag
