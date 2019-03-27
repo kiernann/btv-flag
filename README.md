@@ -1,24 +1,56 @@
 # btv-flag
 
-In the winter of 2016, we sent a letter to the city council of Burlington, Vermont. In this letter, we expressed our disapproval of the little-known flag of the city. Designed in the 1980's by a middle school student, the current flag was an embarassment to Vermont's queen city.
+## What We're Doing
 
-![btv_old](/flags/btv_old.png)
+The Infinity Flag is the original Burlington flag redesign. After finding the current Burlington flag online, we deciced Vermont's great queen city deserved more. We sent a letter to the Burlington City Council outlining the problems with our current flag and proposing the Inifnity Flag as the new official flag.
 
-This flag violates nearly every rule of vexillography, the study of flag design. The current flag was nowhere to be seen in Vermont's largest and most vibrant city. In a 2004 survey of vexillologists, Vermont's city flags did not fare well. Montpeliers flag (which would soon become a part of this project) was ranked 9th _worst_ in the country, with a score of 2.35 our of 10, a grade of D-minus. Montpelier was beaten out only slightly by Burlington, which was ranked 107th out of the 150  with a 3.23 out of 10, a D grade.
+Together with the mayor, the city council has now elicited the help of the Burlington City Arts to help run a contest to find a new flag for the city. That contest has now begun, and we're lookign for your support!
 
-A proper city flag should both reflect her values and give the citizen's an outlet to associate with those values. No citizen would wear that flag on a t-shirt or wish to see it fly above city hall. A new design was clearly needed.
+Voting starts October, 20th and every vote counts.
 
-## Principals
+Below you can read more about our design and the ways you can help support our flag.
 
-1. Keep it simple
-2. Use meaningful symbolism
-3. Use 2-3 basic colors
-4. No Lettering or Seals
-5. Be Distinctive or Be Related
+## What Burlington Has
 
-## Proposal
+Designed in the 90's by a Burlington 8th grader, the above flag has officially represented the great city of Burlington for almost 30 years. While the story may be quaint, I think we can all agree this flag does not reflect the quality of Vermont's queen city. If the city had a good flag, you would know about it.
 
-## Campagin
+In a survey of flag enthusiasts, Burlington’s current flag scored an average of 3.23 out of 10, ranking it 107th of 150 North American city flags.
+
+## What Burlington Deserve
+
+* The white upper half is reminiscent of Vermont after a fresh snowfall: beautiful and peaceful.
+* The blue bottom half represents Burlington’s adjacent Lake Champlain, which is an important part of Burlington's history, economy, and recreation.
+* The symbol represents the city's infinite strive to improve, its ability to preserver, and its commitment to sustainability, being the first city in the country to have achieved 100% reliance on renewable energy sources .
+* The green humps of lemniscate symbolizes the green mountains.
+* That half of the symbol also looks like Champ cresting over the lake’s surface!
+
+## What Makes a Good Flag
+
+The same organization that conducted the survey later released a paper that outlines 5 guiding principles to good flag design:
+
+* Keep It Simple: The flag should be so simple that a child can draw it from memory
+* Use Meaningful Symbolism: The flag’s images, colors, or patterns should relate to what it symbolizes
+* Use A Basic Color Pallet: Limit the pallet to two or three contrasting colors
+* No Lettering or Seals: Never use writing of any kind or an organization’s seal
+* Be Distinctive or Be Related: Avoid duplicating other flags, but use similarities to show connections
+
+Looking at the two flags side-by-side, it’s easy to see the ways the Infinity Flag uses these guidelines to achieve a professional aesthetic. These guidelines also help define the exact failures of the current flag.
+
+The current flag has (1) a complex shield with 6 different symbols, which (2) vaugly relate to the city's values, (3) uses over 10 unique complex colors, and (4) is entirely lettering and a seal. (5) If you have to spell the name of the city on the flag, you've failed to make it unique or related.
+
+The new flag (1) reduces the design to a single simple symbol, (2) pulls from city values to inspire the design, (3) uses 3 distinct basic colors, (4) lacks any lettering or seals, and (5) is one of the very few flags to use the infinity symbol.
+What We Can Do
+
+Thanks to our letter to the city coucil, Burlington City Arts is working with the city to select a new flag! Here's the timeline for the selction process from The BCA page:
+
+1. Submissions accepted online: September 1
+2. Deadline for all submissions: October 15
+3. Finalists selected and public voting: October 20-November 17
+4. Winning design chosen and announced: November 20
+5. Flag unveiling: December 31 during First Night
+
+We hope you vote for the Infinity Flag!
+
 
 ## Links
 
