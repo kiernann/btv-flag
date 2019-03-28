@@ -1,5 +1,7 @@
 # btv-flag
 
+![infinity flag](flag/btv_infinity.png)
+
 ## What We're Doing
 
 The Infinity Flag is the original Burlington flag redesign. After finding the current Burlington flag online, we deciced Vermont's great queen city deserved more. We sent a letter to the Burlington City Council outlining the problems with our current flag and proposing the Inifnity Flag as the new official flag.
@@ -12,11 +14,15 @@ Below you can read more about our design and the ways you can help support our f
 
 ## What Burlington Has
 
+![old flag](flag/btv_old.png)
+
 Designed in the 90's by a Burlington 8th grader, the above flag has officially represented the great city of Burlington for almost 30 years. While the story may be quaint, I think we can all agree this flag does not reflect the quality of Vermont's queen city. If the city had a good flag, you would know about it.
 
 In a survey of flag enthusiasts, Burlington’s current flag scored an average of 3.23 out of 10, ranking it 107th of 150 North American city flags.
 
 ## What Burlington Deserve
+
+![infinity flag](flag/btv_infinity.png)
 
 * The white upper half is reminiscent of Vermont after a fresh snowfall: beautiful and peaceful.
 * The blue bottom half represents Burlington’s adjacent Lake Champlain, which is an important part of Burlington's history, economy, and recreation.
@@ -51,6 +57,29 @@ Thanks to our letter to the city coucil, Burlington City Arts is working with th
 
 We hope you vote for the Infinity Flag!
 
+-----
+
+# Update
+
+## What Burlington Got
+
+The Infinity flag was disqualified from the election. The contest was restricted to residents of Burlington. While I don't neccesarily agree with this restriction, I can understand it. Vermont's queen city deserves a flag it can be proud of.
+
+I am very happy with the winning flag! The new flag was designed by native Burlingtonians Owen and Lucas Marchessault. The new flag flew for the first time on December 31, 2017.
+
+![new flag](flags/btv_new.jpg)
+
+Mayor Miro Weinberger had this to say:
+
+> Congratulations to Owen and Lucas Marchessault on the selection of their design, which beautifully conveys our city’s history, character, and natural environment, as the new City of Burlington flag. It is fitting that a design created by two Burlington students should be chosen to replace the City’s original student-designed flag.
+
+The new flag definitely follows the guidelines I used to design my flag:
+
+* The sky, representing looking back to our rich history and ahead to the unknown future with perpetual hope
+* Snow covered mountains - an indelible backdrop to our city
+* The Green Mountain State, Burlington’s commitment to the environment, and education
+* The breakwater, which protects Burlington’s spectacular waterfront, and
+* Lake Champlain, which sustains and enriches our community and lives.   
 
 ## Links
 
