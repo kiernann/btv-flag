@@ -14,7 +14,7 @@ Below you can read more about our design and the ways you can help support our f
 
 ## What Burlington Has
 
-![old flag](flag/btv_old.png)
+![old flag](flags/btv_old.png)
 
 Designed in the 90's by a Burlington 8th grader, the above flag has officially represented the great city of Burlington for almost 30 years. While the story may be quaint, I think we can all agree this flag does not reflect the quality of Vermont's queen city. If the city had a good flag, you would know about it.
 
@@ -22,7 +22,7 @@ In a survey of flag enthusiasts, Burlington’s current flag scored an average o
 
 ## What Burlington Deserve
 
-![infinity flag](flag/btv_infinity.png)
+![infinity flag](flags/btv_infinity.png)
 
 * The white upper half is reminiscent of Vermont after a fresh snowfall: beautiful and peaceful.
 * The blue bottom half represents Burlington’s adjacent Lake Champlain, which is an important part of Burlington's history, economy, and recreation.
