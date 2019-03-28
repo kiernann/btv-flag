@@ -1,6 +1,6 @@
 # btv-flag
 
-![infinity flag](flag/btv_infinity.png)
+![infinity flag](flags/btv_infinity.png)
 
 ## What We're Doing
 
